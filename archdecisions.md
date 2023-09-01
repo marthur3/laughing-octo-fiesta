@@ -1,9 +1,13 @@
 ---
-title: Test
-has_children: true
+layout: default
+title: test
 nav_order: 2
 ---
 
+# Configuration
+{: .no_toc }
+
+---
 # Use Markdown Architectural Decision Records
 
 ## Context and Problem Statement
